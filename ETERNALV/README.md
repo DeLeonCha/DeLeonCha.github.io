@@ -11,7 +11,7 @@ Currently playable via Turbo C or DOS-based emulators
 About the Game
 
 ETERNALV is a decision-driven, text-based RPG developed in C. Built from scratch to deliver an immersive journey through fate, combat, and
-consequence. Players traverse a branching story with 3 distinct endings, where every choice ripples through a world designed around 
+consequence. Players traverse a branching story with distinct endings, where every choice ripples through a world designed around 
 narrative depth and mechanical complexity.
 
 Key Features:
