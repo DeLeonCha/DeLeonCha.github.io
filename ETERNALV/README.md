@@ -22,7 +22,7 @@ Custom Combat System
 Includes critical hits, bonus damage, and scaling stats. Combat is turn-based, tactical, and brutal.
 
 Diverse Enemies with Unique Stats & Loot
-Battle a variety of foes — each with their own HP, attack styles, and drop tables. Defeating stronger enemies may reward rare crafting 
+Battle a variety of foes each with their own HP, attack styles, and drop tables. Defeating stronger enemies may reward rare crafting 
 materials or powerful items.
 
 Leveling & Status Progression
