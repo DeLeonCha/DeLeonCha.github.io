@@ -1,14 +1,19 @@
 # DeLeonCha.github.io
-ETERNALV – A Text-Based RPG Experience
+ETERNALV - A Text-Based RPG Experience
+
 Built with: C (Turbo C)
+
 Genre: Narrative RPG • Terminal-based
+
 Play on: Turbo C or DOS emulators
 
 "In the depths of an endless cycle, choices carve destiny. Will you rise, fall, or start again?"
 
 About tghe Game
 
-ETERNALV is an RPG I built from scratch using C. It’s a story-rich, text-based game where your decisions actually change how 
+ETERNALV
+
+is an RPG I built from scratch using C. It’s a story-rich, text-based game where your decisions actually change how 
 everything plays out. With branching paths, combat mechanics, and a reincarnation system, meaning? every run can be a new story.
 
 What’s Inside:
